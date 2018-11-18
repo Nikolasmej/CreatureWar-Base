@@ -25,7 +25,7 @@ public class CyberDemon extends Demon
             Randomizer.nextInt(MAX_CYBERDEMON_HP-MIN_CYBERDEMON_HP)+MIN_CYBERDEMON_HP,    
             Randomizer.nextInt(MAX_CYBERDEMON_STR-MIN_CYBERDEMON_STR)+MIN_CYBERDEMON_STR
         );
-          
+          System.out.println("!!CYBERDEMON!!");
     }
     
     

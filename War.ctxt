@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=War
+comment0.text=\r\n\ A\ basic\ creature\ war.\ Two\ armies\ figthing.\r\n\ \r\n\ @author\ (Nicolas)\ \r\n\ @version\ (1)\r\n
+comment1.params=
+comment1.target=War()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ War\r\n\ \r\n
+comment2.params=armySize
+comment2.target=War(int)
+comment3.params=
+comment3.target=void\ Deathmatch()
+comment3.text=\r\n\ Deathmatch\r\n\ \r\n
+comment4.params=warrior1\ warrior2
+comment4.target=void\ fight(Creature,\ Creature)
+comment4.text=\r\n\ damage\ taken\ during\ fight.\r\n\ \r\n
+comment5.params=army
+comment5.target=void\ createArmy(java.util.ArrayList)
+comment5.text=\r\n\ Set\ army\r\n\ \r\n
+numComments=6

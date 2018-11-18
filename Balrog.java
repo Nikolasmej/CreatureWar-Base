@@ -33,7 +33,8 @@ public class Balrog extends Demon
      * to attack twice each round 
      */
     public int damage() {
-
+        System.out.println("!!BALROG!!");
             return super.damage() + super.damage();
+            
     }
 }

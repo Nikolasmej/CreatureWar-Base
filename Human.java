@@ -30,4 +30,8 @@ public class Human extends Creature
           
     }
 
+    public Human(int str, int hp) {
+           super(str, hp);
+           System.out.println("!!HUMAN!!");
+    }
 }

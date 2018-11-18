@@ -41,7 +41,7 @@ public class Elf extends Creature
            newdamage = super.damage();
            
            if (Randomizer.nextInt(10)==0) {
-               System.out.println("!!PUFF!!");
+               System.out.println("!!ELF!!");
                newdamage *=2;
             }
            
